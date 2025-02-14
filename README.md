@@ -15,4 +15,4 @@ A step-by-step guide on how to use **VLOOKUP** for data extraction, sorting, and
 
 ---
 
-**📌 Check out the example files & demo video!**  
+**📌 Check out the example demo video!** 
